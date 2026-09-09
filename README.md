@@ -1,21 +1,20 @@
-# 👋 ¡Hola! Soy Giussepe
+# Hola, soy Giussepe Taquiri 👋
 
-## Sobre mí
-- 🎓 Estudiante de [tu carrera]
-- 💻 Me gusta programar y aprender cosas nuevas
-- 🌱 Actualmente aprendiendo: [ej: Python, JavaScript]
-- 📫 Cómo contactarme: [tu correo]
+**Estudiante de Ingeniería de Software en la UPC | Desarrollador Backend, Web y Móvil**
 
-## Tecnologías que uso
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Me apasiona el desarrollo de software, la creación de arquitecturas escalables y la investigación sobre hardware de alto rendimiento. Disfruto construyendo desde APIs robustas hasta plataformas completas.
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiussepeTC0410&show_icons=true&theme=radical)
+### 🛠️ Tecnologías y Herramientas
+* **Backend:** C#, .NET 8, Python, Node.js
+* **Frontend:** Next.js, TypeScript, React
+* **Móvil:** Flutter
+* **Bases de Datos & ORMs:** Prisma, Supabase, SQL
+* **Redes:** TCP/IP, IPv4, Packet Tracer
 
-## Mis proyectos
-- 🔨 [Nombre del proyecto](enlace) - Breve descripción
+### 🔭 En lo que he estado trabajando
+* Arquitecturas backend RESTful para plataformas de viajes.
+* Diseño de esquemas de bases de datos y plataformas SaaS para facturación de servicios.
 
----
-
-⭐ ¡Gracias por visitar mi perfil!
+### 📫 Cómo contactarme
+* **LinkedIn:** [Tu Enlace Aquí]
+* **Email:** [Tu Correo Aquí]
